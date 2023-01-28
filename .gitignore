@@ -1,0 +1,8 @@
+.vscode
+.idea
+a.out
+my_radar
+coding-style-reports.log
+test.txt
+tests/
+exemple.txt
