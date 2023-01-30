@@ -1,5 +1,5 @@
 # MyRadar, Projet EPITECH 1ère année
-Le but de ce projet était de recrée un simulateur de trafic aérien en langage C. Nous devions utiliser la librairie CSFML
+Le but de se projet était de recrée un simulateur de trafic aérien en langage C. Nous devions utiliser la librairie CSFML
 ```
 ./my_radar -h
 Air traffic simulation panel
